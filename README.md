@@ -1,2 +1,4 @@
-# modern-java-in-action-study
-모던 자바 인 액션 공부하는 저장소
+# 모던 자바 인 액션 읽고 실습해보기
+이번 방학에 책 읽고 실습해보자
+
+블로깅도 합니다. [요기를 클릭](https://prayme.tistory.com/)
